@@ -1,2 +1,2 @@
 # LoadMoreHelper
-help to do the load more for recycleview 
+Help to do the load more for recycleview and listview(doing) in Android by using combination.
